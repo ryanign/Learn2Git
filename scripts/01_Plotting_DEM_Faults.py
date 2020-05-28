@@ -69,7 +69,10 @@ def main():
             pen   = '0.5p'
         
         fig.plot(x=lon,y=lat,style=style,color='black',pen=pen)         ## Plot mechanism in GMT
+    
         
+    fig.text(x=134.8,y=-9.8,text="ignatiusryanpranantyo at gmail dot com [28/05/2020]",
+             font="6p,blue", justify="RB")
     fig.savefig('../outputs/image-01.png',dpi=300)
 
 if __name__ == "__main__":
