@@ -70,7 +70,7 @@ def main():
         
         fig.plot(x=lon,y=lat,style=style,color='black',pen=pen)         ## Plot mechanism in GMT
         
-    fig.savefig('../outputs/image.png',dpi=300)
+    fig.savefig('../outputs/image-01.png',dpi=300)
 
 if __name__ == "__main__":
     main()

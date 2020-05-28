@@ -3,5 +3,7 @@
 Prepared by Ryan Pranantyo
 ignatiusryanpranantyo@gmail.com
 
-Goal:
-1) To plot elevation model and tectonic faults plane from shapefile
+Contents:
+Scripts:
+01_Plotting_DEM_Faults.py
+	To plot elevation model and tectonic faults plane from shapefile
