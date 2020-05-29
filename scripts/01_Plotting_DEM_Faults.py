@@ -6,7 +6,7 @@ Created on Thu May 28 20:40:02 2020
 @author: github.com/ryanign
 
 Basic to plot an elevation data and a tectonic fault shapefile
---combination pygmt and cartopy
+--combination pygmt and shapefile
 """
 import numpy as np
 import pygmt
